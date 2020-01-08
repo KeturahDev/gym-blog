@@ -14,18 +14,23 @@ h1{
 }
 
 .post1 {
+  margin-top:20px;
   border-color: gold;
   border-style: double;
-  
+  margin-bottom: 20px;
 }
 
 .post2 {
+  margin-top:20px;
+  margin-bottom: 20px;
   border-color: purple;
   border-style: double;
 
 }
 
 .post3 {
+  margin-top:20px;
+  margin-bottom: 20px;
   border-color: blue;
   border-style: double;
 
