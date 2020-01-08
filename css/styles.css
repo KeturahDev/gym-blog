@@ -1,20 +1,36 @@
 body {
-  background-color: rgb(154, 221, 199);
+  background-image: radial-gradient(circle, #fffa05, #ffd87d, #ffd5db, #ffebff, #fbfbfb);
   font-family: arial;
+  /* text-align: center; */
+  margin: 10%;
+  padding: 20px;
+}
+
+h1{
+  text-align: center;
+  font-style: bold;
+  font-weight: 1100;
+  color: rgb(129, 0, 129);
 }
 
 .post1 {
+  border-color: gold;
+  border-style: double;
   
 }
 
 .post2 {
+  border-color: purple;
+  border-style: double;
 
 }
 
 .post3 {
+  border-color: blue;
+  border-style: double;
 
 }
 
 .about {
-
+  font-style: italic;
 }
